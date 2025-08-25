@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootMicroservice1CourseApplication<spring-boot-microservice-1-course>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cg.springbootmicroservice1course.SpringBootMicroservice1CourseApplication",
+            "projectName": "spring-boot-microservice-1-course",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootMicroservice2NotificationApplication<spring-boot-microservice-2-notification>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cg.spring_boot_microservice_5_notification.SpringBootMicroservice2NotificationApplication",
+            "projectName": "spring-boot-microservice-2-notification",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootMicroservice2PurchaseApplication<spring-boot-microservice-2-purchase>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cg.springbootmicroservice2purchase.SpringBootMicroservice2PurchaseApplication",
+            "projectName": "spring-boot-microservice-2-purchase",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootMicroservice3ApiGatewayApplication<spring-boot-microservice-3-api-gateway>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cg.spring_boot_microservice_3_api_gateway.SpringBootMicroservice3ApiGatewayApplication",
+            "projectName": "spring-boot-microservice-3-api-gateway",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootMicroservice4EurekaApplication<spring-boot-microservice-4-eureka>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sha.springbootmicroservice4eureka.SpringBootMicroservice4EurekaApplication",
+            "projectName": "spring-boot-microservice-4-eureka",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
